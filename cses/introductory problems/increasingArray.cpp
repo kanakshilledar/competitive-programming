@@ -1,6 +1,14 @@
 // CODE : 1094
 // LINK : https://cses.fi/problemset/task/1094
 
+// // LOGIC
+//     in first line we need to print the size of array
+//     and in the next line we input elements into the array
+    
+//     we need to print the minimum number of turns required to convert the array in increasing order.
+       
+//     we add a difference between the adjacent elements of the array to a variable turns
+
 #include <bits/stdc++.h>
 using namespace std;
 #define boost ios::sync_with_stdio(false); cin.tie(0)
