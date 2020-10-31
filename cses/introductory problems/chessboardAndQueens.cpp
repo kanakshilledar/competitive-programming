@@ -5,7 +5,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-vec<2, bool> board(8, 8);
+vector<2, bool> board(8, 8);
 int solve(int j = 0, int x = 0, int d1 = 0, int d2 = 0)
 {
     if (j == 8) return 1;
