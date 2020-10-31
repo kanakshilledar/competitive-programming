@@ -1,6 +1,14 @@
 // CODE : 1071
 // LINK : https://cses.fi/problemset/task/1071
 
+// // LOGIC
+//     first line of input contains testcases
+//     following line contains two integers y and x
+//     in output we need to print the element at the coordinate y, x
+    
+//     we can calculate the element at the coordinate with the help of following conditions in below if statement
+    
+    
 #include <bits/stdc++.h>
 using namespace std;
 #define boost ios::sync_with_stdio(false); cin.tie(0)
