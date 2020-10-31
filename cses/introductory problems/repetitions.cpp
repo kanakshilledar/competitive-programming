@@ -2,6 +2,10 @@
 // LINK : https://cses.fi/problemset/task/1069
 // STATUS : Partially Correct
 
+// LOGIC
+    we have to input a string containing n characters and output the length of longest repetition in the entire string.
+    we count the repetition in the string and replace the value of repeat variable. 
+
 #include <bits/stdc++.h>
 using namespace std;
 #define boost ios::sync_with_stdio(false); cin.tie(0)
