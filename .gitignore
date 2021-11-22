@@ -1,0 +1,10 @@
+# ignore all extensionless files with the below three command combination
+
+# ignore all files
+*
+
+# unignore all files with extension
+!*.*
+
+# unignore all dirs
+!*/
